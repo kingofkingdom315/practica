@@ -1,0 +1,11 @@
+C:\Users\kenke\source\repos\pract\pract\bin\Debug\netcoreapp3.0\pract.exe
+C:\Users\kenke\source\repos\pract\pract\bin\Debug\netcoreapp3.0\pract.deps.json
+C:\Users\kenke\source\repos\pract\pract\bin\Debug\netcoreapp3.0\pract.runtimeconfig.json
+C:\Users\kenke\source\repos\pract\pract\bin\Debug\netcoreapp3.0\pract.runtimeconfig.dev.json
+C:\Users\kenke\source\repos\pract\pract\bin\Debug\netcoreapp3.0\pract.dll
+C:\Users\kenke\source\repos\pract\pract\bin\Debug\netcoreapp3.0\pract.pdb
+C:\Users\kenke\source\repos\pract\pract\obj\Debug\netcoreapp3.0\pract.csprojAssemblyReference.cache
+C:\Users\kenke\source\repos\pract\pract\obj\Debug\netcoreapp3.0\pract.AssemblyInfoInputs.cache
+C:\Users\kenke\source\repos\pract\pract\obj\Debug\netcoreapp3.0\pract.AssemblyInfo.cs
+C:\Users\kenke\source\repos\pract\pract\obj\Debug\netcoreapp3.0\pract.dll
+C:\Users\kenke\source\repos\pract\pract\obj\Debug\netcoreapp3.0\pract.pdb
