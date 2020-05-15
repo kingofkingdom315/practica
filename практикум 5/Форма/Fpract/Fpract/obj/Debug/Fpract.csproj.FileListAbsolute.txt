@@ -1,0 +1,14 @@
+C:\Users\kenke\source\repos\Fpract\Fpract\bin\Debug\Fpract.exe.config
+C:\Users\kenke\source\repos\Fpract\Fpract\bin\Debug\Fpract.exe
+C:\Users\kenke\source\repos\Fpract\Fpract\bin\Debug\Fpract.pdb
+C:\Users\kenke\source\repos\Fpract\Fpract\obj\Debug\Fpract.csprojAssemblyReference.cache
+C:\Users\kenke\source\repos\Fpract\Fpract\obj\Debug\MainWindow.g.cs
+C:\Users\kenke\source\repos\Fpract\Fpract\obj\Debug\App.g.cs
+C:\Users\kenke\source\repos\Fpract\Fpract\obj\Debug\Fpract_MarkupCompile.cache
+C:\Users\kenke\source\repos\Fpract\Fpract\obj\Debug\Fpract_MarkupCompile.lref
+C:\Users\kenke\source\repos\Fpract\Fpract\obj\Debug\MainWindow.baml
+C:\Users\kenke\source\repos\Fpract\Fpract\obj\Debug\Fpract.g.resources
+C:\Users\kenke\source\repos\Fpract\Fpract\obj\Debug\Fpract.Properties.Resources.resources
+C:\Users\kenke\source\repos\Fpract\Fpract\obj\Debug\Fpract.csproj.GenerateResource.cache
+C:\Users\kenke\source\repos\Fpract\Fpract\obj\Debug\Fpract.exe
+C:\Users\kenke\source\repos\Fpract\Fpract\obj\Debug\Fpract.pdb
