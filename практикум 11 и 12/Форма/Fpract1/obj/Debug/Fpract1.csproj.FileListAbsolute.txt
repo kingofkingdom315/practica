@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\Fpract1\Fpract1\bin\Debug\Fpract1.exe.config
+C:\Users\Lenovo\source\repos\Fpract1\Fpract1\bin\Debug\Fpract1.exe
+C:\Users\Lenovo\source\repos\Fpract1\Fpract1\bin\Debug\Fpract1.pdb
+C:\Users\Lenovo\source\repos\Fpract1\Fpract1\obj\Debug\Fpract1.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Fpract1\Fpract1\obj\Debug\Fpract1.Form1.resources
+C:\Users\Lenovo\source\repos\Fpract1\Fpract1\obj\Debug\Fpract1.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Fpract1\Fpract1\obj\Debug\Fpract1.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Fpract1\Fpract1\obj\Debug\Fpract1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Fpract1\Fpract1\obj\Debug\Fpract1.exe
+C:\Users\Lenovo\source\repos\Fpract1\Fpract1\obj\Debug\Fpract1.pdb
