@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\Pract\Pract\bin\Debug\netcoreapp3.1\Pract.exe
+C:\Users\Lenovo\source\repos\Pract\Pract\bin\Debug\netcoreapp3.1\Pract.deps.json
+C:\Users\Lenovo\source\repos\Pract\Pract\bin\Debug\netcoreapp3.1\Pract.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Pract\Pract\bin\Debug\netcoreapp3.1\Pract.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Pract\Pract\bin\Debug\netcoreapp3.1\Pract.dll
+C:\Users\Lenovo\source\repos\Pract\Pract\bin\Debug\netcoreapp3.1\Pract.pdb
+C:\Users\Lenovo\source\repos\Pract\Pract\obj\Debug\netcoreapp3.1\Pract.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Pract\Pract\obj\Debug\netcoreapp3.1\Pract.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Pract\Pract\obj\Debug\netcoreapp3.1\Pract.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Pract\Pract\obj\Debug\netcoreapp3.1\Pract.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Pract\Pract\obj\Debug\netcoreapp3.1\Pract.dll
+C:\Users\Lenovo\source\repos\Pract\Pract\obj\Debug\netcoreapp3.1\Pract.pdb
+C:\Users\Lenovo\source\repos\Pract\Pract\obj\Debug\netcoreapp3.1\Pract.genruntimeconfig.cache
